@@ -1,0 +1,4 @@
+Symlinking /ws_moveit/devel/lib/libmoveit_task_constructor_capabilities.so
+Symlinking /ws_moveit/devel/lib/pkgconfig/moveit_task_constructor_capabilities.pc
+Symlinking /ws_moveit/devel/share/moveit_task_constructor_capabilities/cmake/moveit_task_constructor_capabilitiesConfig-version.cmake
+Symlinking /ws_moveit/devel/share/moveit_task_constructor_capabilities/cmake/moveit_task_constructor_capabilitiesConfig.cmake

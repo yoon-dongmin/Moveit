@@ -1,0 +1,278 @@
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rviz_generate_messages_py[0m
+[35m[1mScanning dependencies of target rviz_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rviz_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target moveit_task_constructor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target moveit_task_constructor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target moveit_task_constructor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target moveit_task_constructor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target moveit_task_constructor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rviz_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rviz_generate_messages_eus[0m
+[35m[1mScanning dependencies of target moveit_ros_manipulation_gencfg[0m
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target map_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target map_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target rviz_generate_messages_nodejs
+[  0%] Built target rviz_generate_messages_py
+[  0%] Built target rviz_generate_messages_lisp
+[  0%] Built target moveit_task_constructor_msgs_generate_messages_cpp
+[  0%] Built target moveit_task_constructor_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target moveit_task_constructor_msgs_generate_messages_py
+[  0%] Built target moveit_task_constructor_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target moveit_task_constructor_msgs_generate_messages_nodejs
+[  0%] Built target moveit_ros_manipulation_gencfg
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target rviz_generate_messages_eus
+[  0%] Built target rviz_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target moveit_ros_planning_gencfg[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target moveit_ros_planning_gencfg
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target object_recognition_msgs_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target shape_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target shape_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target visualization_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[  0%] Built target moveit_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target map_msgs_generate_messages_eus
+[  0%] Built target object_recognition_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target octomap_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  0%] Built target moveit_msgs_generate_messages_cpp
+[  0%] Built target shape_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target shape_msgs_generate_messages_eus
+[  0%] Built target moveit_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target map_msgs_generate_messages_nodejs
+[  0%] Built target moveit_msgs_generate_messages_lisp
+[  0%] Built target moveit_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target object_recognition_msgs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target shape_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target object_recognition_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_py[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target map_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target object_recognition_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[  0%] Built target octomap_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target octomap_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target gtest[0m
+[  0%] Built target octomap_msgs_generate_messages_nodejs
+[  0%] Built target map_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target octomap_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[  2%] [32mBuilding CXX object gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[35m[1mScanning dependencies of target moveit_task_constructor_core[0m
+[  6%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/introspection.cpp.o[0m
+[  8%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/cost_terms.cpp.o[0m
+[  8%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/container.cpp.o[0m
+[ 10%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/marker_tools.cpp.o[0m
+[ 13%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/merge.cpp.o[0m
+[ 15%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/properties.cpp.o[0m
+[ 17%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/storage.cpp.o[0m
+[ 19%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/solvers/planner_interface.cpp.o[0m
+[ 21%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/utils.cpp.o[0m
+[ 23%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/solvers/cartesian_path.cpp.o[0m
+[ 26%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/solvers/pipeline_planner.cpp.o[0m
+[ 28%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/stage.cpp.o[0m
+[ 30%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/task.cpp.o[0m
+[ 32%] [32mBuilding CXX object src/CMakeFiles/moveit_task_constructor_core.dir/solvers/joint_interpolation.cpp.o[0m
+[ 34%] [32m[1mLinking CXX shared library libgtest.so[0m
+[ 34%] Built target gtest
+[ 36%] [32m[1mLinking CXX shared library /ws_moveit/devel/.private/moveit_task_constructor_core/lib/libmoveit_task_constructor_core.so[0m
+[ 36%] Built target moveit_task_constructor_core
+[35m[1mScanning dependencies of target gtest_utils[0m
+[35m[1mScanning dependencies of target moveit_task_constructor_core_stages[0m
+[ 39%] [32mBuilding CXX object test/CMakeFiles/gtest_utils.dir/gtest_value_printers.cpp.o[0m
+[ 41%] [32mBuilding CXX object test/CMakeFiles/gtest_utils.dir/models.cpp.o[0m
+[ 43%] [32mBuilding CXX object test/CMakeFiles/gtest_utils.dir/stage_mockups.cpp.o[0m
+[ 47%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/current_state.cpp.o[0m
+[ 47%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/modify_planning_scene.cpp.o[0m
+[ 50%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/fix_collision_objects.cpp.o[0m
+[ 52%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/fixed_state.cpp.o[0m
+[ 54%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/compute_ik.cpp.o[0m
+[ 56%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/generate_place_pose.cpp.o[0m
+[ 60%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/move_to.cpp.o[0m
+[ 60%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/generate_pose.cpp.o[0m
+[ 63%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/predicate_filter.cpp.o[0m
+[ 65%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/pick.cpp.o[0m
+[ 69%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/simple_grasp.cpp.o[0m
+[ 69%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/move_relative.cpp.o[0m
+[ 73%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/fixed_cartesian_poses.cpp.o[0m
+[ 73%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/generate_grasp_pose.cpp.o[0m
+[ 76%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/passthrough.cpp.o[0m
+[ 78%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stages.dir/connect.cpp.o[0m
+[ 80%] [32m[1mLinking CXX shared library /ws_moveit/devel/.private/moveit_task_constructor_core/lib/libgtest_utils.so[0m
+[ 80%] Built target gtest_utils
+[ 82%] [32m[1mLinking CXX shared library /ws_moveit/devel/.private/moveit_task_constructor_core/lib/libmoveit_task_constructor_core_stages.so[0m
+[ 82%] Built target moveit_task_constructor_core_stages
+[35m[1mScanning dependencies of target moveit_task_constructor_core_stage_plugins[0m
+[35m[1mScanning dependencies of target pick_pa10[0m
+[35m[1mScanning dependencies of target pick_pr2[0m
+[35m[1mScanning dependencies of target pick_ur5[0m
+[ 84%] [32mBuilding CXX object src/stages/CMakeFiles/moveit_task_constructor_core_stage_plugins.dir/plugins.cpp.o[0m
+[ 89%] [32mBuilding CXX object test/CMakeFiles/pick_pr2.dir/pick_pr2.cpp.o[0m
+[ 89%] [32mBuilding CXX object test/CMakeFiles/pick_ur5.dir/pick_ur5.cpp.o[0m
+[ 91%] [32mBuilding CXX object test/CMakeFiles/pick_pa10.dir/pick_pa10.cpp.o[0m
+[ 93%] [32m[1mLinking CXX shared library /ws_moveit/devel/.private/moveit_task_constructor_core/lib/libmoveit_task_constructor_core_stage_plugins.so[0m
+[ 93%] Built target moveit_task_constructor_core_stage_plugins
+[ 95%] [32m[1mLinking CXX executable /ws_moveit/devel/.private/moveit_task_constructor_core/lib/moveit_task_constructor_core/pick_pr2[0m
+[ 97%] [32m[1mLinking CXX executable /ws_moveit/devel/.private/moveit_task_constructor_core/lib/moveit_task_constructor_core/pick_ur5[0m
+[ 97%] Built target pick_pr2
+[ 97%] Built target pick_ur5
+[100%] [32m[1mLinking CXX executable /ws_moveit/devel/.private/moveit_task_constructor_core/lib/moveit_task_constructor_core/pick_pa10[0m
+[100%] Built target pick_pa10

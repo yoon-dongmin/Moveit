@@ -1,0 +1,11 @@
+Symlinking /ws_moveit/devel/lib/libpilz_industrial_motion_planner.so
+Symlinking /ws_moveit/devel/lib/libcommand_list_manager.so
+Symlinking /ws_moveit/devel/lib/libpilz_industrial_motion_planner_testhelpers.so
+Symlinking /ws_moveit/devel/lib/libpilz_industrial_motion_planner_lib.so
+Symlinking /ws_moveit/devel/lib/libsequence_capability.so
+Symlinking /ws_moveit/devel/lib/libplanning_context_loader_circ.so
+Symlinking /ws_moveit/devel/lib/libplanning_context_loader_ptp.so
+Symlinking /ws_moveit/devel/lib/libplanning_context_loader_lin.so
+Symlinking /ws_moveit/devel/lib/pkgconfig/pilz_industrial_motion_planner.pc
+Symlinking /ws_moveit/devel/share/pilz_industrial_motion_planner/cmake/pilz_industrial_motion_plannerConfig-version.cmake
+Symlinking /ws_moveit/devel/share/pilz_industrial_motion_planner/cmake/pilz_industrial_motion_plannerConfig.cmake

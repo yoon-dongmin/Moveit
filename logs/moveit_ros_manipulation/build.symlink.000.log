@@ -1,0 +1,14 @@
+Symlinking /ws_moveit/devel/include/moveit_ros_manipulation/PickPlaceDynamicReconfigureConfig.h
+Symlinking /ws_moveit/devel/lib/libmoveit_pick_place_planner.so
+Symlinking /ws_moveit/devel/lib/libmoveit_move_group_pick_place_capability.so.1.1.9
+Symlinking /ws_moveit/devel/lib/libmoveit_pick_place_planner.so.1.1.9
+Symlinking /ws_moveit/devel/lib/libmoveit_move_group_pick_place_capability.so
+Symlinking /ws_moveit/devel/lib/python2.7/dist-packages/moveit_ros_manipulation/__init__.py
+Symlinking /ws_moveit/devel/lib/python2.7/dist-packages/moveit_ros_manipulation/cfg/PickPlaceDynamicReconfigureConfig.py
+Symlinking /ws_moveit/devel/lib/python2.7/dist-packages/moveit_ros_manipulation/cfg/__init__.py
+Symlinking /ws_moveit/devel/lib/pkgconfig/moveit_ros_manipulation.pc
+Symlinking /ws_moveit/devel/share/moveit_ros_manipulation/cmake/moveit_ros_manipulationConfig.cmake
+Symlinking /ws_moveit/devel/share/moveit_ros_manipulation/cmake/moveit_ros_manipulationConfig-version.cmake
+Symlinking /ws_moveit/devel/share/moveit_ros_manipulation/docs/PickPlaceDynamicReconfigureConfig.dox
+Symlinking /ws_moveit/devel/share/moveit_ros_manipulation/docs/PickPlaceDynamicReconfigureConfig.wikidoc
+Symlinking /ws_moveit/devel/share/moveit_ros_manipulation/docs/PickPlaceDynamicReconfigureConfig-usage.dox

@@ -1,0 +1,10 @@
+Symlinking /ws_moveit/devel/lib/libmoveit_task_constructor_demo_pick_place_task.so
+Symlinking /ws_moveit/devel/lib/moveit_task_constructor_demo/pick_place_demo
+Symlinking /ws_moveit/devel/lib/moveit_task_constructor_demo/ik_clearance_cost
+Symlinking /ws_moveit/devel/lib/moveit_task_constructor_demo/cartesian
+Symlinking /ws_moveit/devel/lib/moveit_task_constructor_demo/fallbacks_move_to
+Symlinking /ws_moveit/devel/lib/moveit_task_constructor_demo/modular
+Symlinking /ws_moveit/devel/lib/moveit_task_constructor_demo/alternative_path_costs
+Symlinking /ws_moveit/devel/lib/pkgconfig/moveit_task_constructor_demo.pc
+Symlinking /ws_moveit/devel/share/moveit_task_constructor_demo/cmake/moveit_task_constructor_demoConfig-version.cmake
+Symlinking /ws_moveit/devel/share/moveit_task_constructor_demo/cmake/moveit_task_constructor_demoConfig.cmake
